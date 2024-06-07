@@ -11,7 +11,7 @@
 #### Мой стек:
 - Технологии и инструменты:  Swift / Git / XCode / Charles Proxy / OAuth2 / REST /  GCD / JSON
 - Менеджеры зависимостей: Cocoapods / SPM
-- Библиотеки:   Foundation / UIKit / SwiftUI / Combine / Kingfisher / XCTest / SnapshotTesting / Яндекс.Метрика / SwiftKeychainWrapper
+- Библиотеки:   / SwiftUI / UIKit  / Combine / Kingfisher / XCTest / SnapshotTesting / Яндекс.Метрика / SwiftKeychainWrapper
 - Архитектуры: MVVM / Viper / MVP / MVC
 - Верстка:   Code Auto Layout / Storyboard / SwiftUI
 - Работа с данными:   CoreData / UserDefaults / Keychain / Realm
